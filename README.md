@@ -1,2 +1,2 @@
 # TankWars
-# https://sites.google.com/view/ejtankwars/home
+https://sites.google.com/view/ejtankwars/home
